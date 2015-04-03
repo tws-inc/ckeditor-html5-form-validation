@@ -16,6 +16,13 @@ The HTML5Validation plugin for CKEditor extends the core Forms plugin adding a F
 1. Add **html5validation** to **config.extraPlugins** and save your changes. If that line isn't found, add it. EX:
 
 > config.extraPlugins = 'html5validation';
+## Credits / Tribute
+This plugin was developed and is maintained by the [https://totalwebservices.net/](Total Web Services team).
+
+A big thanks goes out to the following people & organizations:
+[http://www.websiterelevance.com](WebsiteRelevance.com) - for supporting the development of the plugin.
+[http://www.ckeditor.com](CKEditor) - For providing CKEditor so we could build this plugin for it.
+Piotrek Reinmar Koszuliński - A developer on the CKEditor team who pointed us in the right direction with a bug we encountered during development.
 
 ## License
 Licensed under GPL Version 3.0. For additional details please see the LICENSE.md file.
