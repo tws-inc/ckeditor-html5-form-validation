@@ -71,7 +71,23 @@ CKEDITOR.plugins.add('html5validation', {
 									element.removeAttribute('pattern');
 								}
 							}
-						}
+						},
+						{
+							type: 'html',
+							html: lang.sampleTwitterUsername
+						},
+						{
+							type: 'html',
+							html: lang.samplePhonePattern
+						},
+						{
+							type: 'html',
+							html: lang.sampleZipCode
+						},
+						{
+							type: 'html',
+							html: lang.html5patternLink
+						}		
 					]
 				});
 			}
@@ -113,6 +129,22 @@ CKEDITOR.plugins.add('html5validation', {
 									element.removeAttribute('pattern');
 								}
 							}
+						},
+						{
+							type: 'html',
+							html: lang.sampleTwitterUsername
+						},
+						{
+							type: 'html',
+							html: lang.samplePhonePattern
+						},
+						{
+							type: 'html',
+							html: lang.sampleZipCode
+						},
+						{
+							type: 'html',
+							html: lang.html5patternLink
 						}
 					]
 				});
@@ -164,6 +196,22 @@ CKEDITOR.plugins.add('html5validation', {
 									element.removeAttribute('pattern');
 								}
 							}
+						},
+						{
+							type: 'html',
+							html: lang.sampleTwitterUsername
+						},
+						{
+							type: 'html',
+							html: lang.samplePhonePattern
+						},
+						{
+							type: 'html',
+							html: lang.sampleZipCode
+						},
+						{
+							type: 'html',
+							html: lang.html5patternLink
 						}
 					]
 				});
